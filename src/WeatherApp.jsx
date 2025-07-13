@@ -13,8 +13,8 @@ export default function WeatherApp(){
         weather: "haze",
     });
 
-    let updateInfo = (newInfo)=>{
-        setWeatherInfo(newInfo);
+    let updateInfo = (result)=>{
+        setWeatherInfo(result);
 
     };
 
