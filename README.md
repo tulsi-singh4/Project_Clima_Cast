@@ -1,12 +1,17 @@
-# React + Vite
+## 🌈 Project    ClimaCast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ClimaCast is a responsive React Web app that delivers live weather report of any city in the world.
 
-Currently, two official plugins are available:
+**Techstack used : React.js, HTML, CSS, JavaScript, API**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Integrated OpenWeatherMap API to fetch real time weather condition of any city you search
 
-## Expanding the ESLint configuration
+**Deployment** 🚀
+  - Deployed on Render
+  - Access the Live Application here : https://project-weather-l8ht.onrender.com
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Author:** @tulsi-singh4
+- Reflects expertise in modern React development, secure API integrations, and performance optimization.
+
+
+
