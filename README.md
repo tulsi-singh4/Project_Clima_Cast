@@ -10,7 +10,7 @@ Integrated OpenWeatherMap API to fetch real time weather condition of any city y
   - Deployed on Render
   - Access the Live Application here : https://project-weather-l8ht.onrender.com
 
-**Developed by :** [Tulsi Singh](https://github.com/tulsi-singh4)
+**Developed with ♥️ by :** [Tulsi Singh](https://github.com/tulsi-singh4)
 - Reflects expertise in modern React development, secure API integrations, and performance optimization.
 
 
