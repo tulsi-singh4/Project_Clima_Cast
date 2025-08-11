@@ -1,5 +1,5 @@
 // import "./App.css";
-import image from "./assets/img.jpg";
+import image from "./assets/img2.jpg";
 import WeatherApp from "./WeatherApp";
 
 function App() {
